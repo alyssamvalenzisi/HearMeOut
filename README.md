@@ -7,10 +7,10 @@ Discover Your Sound with the Hear Me Out Quiz
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is Python Project created with VS Code. It is a simple quiz that gene
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Visual Studio Code
+	* Python as the coding environment
+	* Tkinter to visualise the quiz in a window
