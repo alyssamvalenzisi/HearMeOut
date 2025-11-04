@@ -11,6 +11,8 @@ This project is Python Project created in the IDE Visual Studio Code.
 It is a simple quiz that generates music genre recomendations, with a chance to get one of three artists and one song from that genre.
 Uses TKinter for the quiz visual/interface, and uses Randomisation to to mix up the genre song/artist results.
 The data set of questions, genres, artists and songs were manually created.
+This project was created from my constant struggle of deciding which genre to listen to.
+	Hear Me Out takes it one step further by recommending a song and artist from that genre, matching the listener's vibe.
 	
 ## Technologies
 Project is created with:
